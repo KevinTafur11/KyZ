@@ -20,26 +20,26 @@ body {
     flex-direction: column;
     text-align: center;
     align-items: center;
-    gap: 30px;
-    max-width: 500px;
-    margin: 20px;
+    gap: 25px;
+    max-width: 600px;
+    margin: 50px;
 }
 
 .container .tenor-gif-embed {
     display: flex;
-    max-width: 200px;
+    max-width: 250px;
 }
 
 .container .btn {
     display: flex;
-    gap: 25px;
+    gap: 70px;
 }
 
 .btn a {
     text-decoration: none;
     color: #111;
     background: #ffffff;
-    padding: 20px 25px;
+    padding: 25px 25px;
     border-radius: 8px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0, 0,0.3);
 
