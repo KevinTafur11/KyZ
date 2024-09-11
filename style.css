@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     text-align: center;
     align-items: center;
-    gap: 25px;
+    gap: 20px;
     max-width: 600px;
     margin: 50px;
 }
